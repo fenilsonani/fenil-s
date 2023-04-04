@@ -32,9 +32,9 @@ export default function Home() {
       {/* <button onClick={showFenil}>Click me</button> */}
       <br />
       {/* onclick it will donwload the showDetail.cs named file in public folder */}
-      <a href="/forgainKey.cs" className="hidden" id="itsid">Download Inner Join Query Program</a>
+      <a href="/forgainKey.cs" className="hidden" id="itsid"> Inner Join Query Program</a>
       <br />
-      <a href="/DataAdapter.cs" className="hidden" id="itsid">Download DataBinding Program</a>
+      <a href="/DataAdapter.cs" className="hidden" id="itsid"> DataBinding Program</a>
     </>
   )
 }
